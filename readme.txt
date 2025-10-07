@@ -34,7 +34,7 @@ Installation
 
     Clone the repository
 
-    git clone https://github.com/your-username/rag-project.git
+    git clone https://github.com/jesswinjohnjoy1/MY_RAG_PDF_READER.git
     cd rag-project
 
 
